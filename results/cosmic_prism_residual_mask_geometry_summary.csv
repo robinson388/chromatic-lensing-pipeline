@@ -1,0 +1,15 @@
+quantity,value
+N_ok,10.0
+N_delta_C_positive,4.0
+sign_p_delta_C,0.828125
+median_delta_C,-0.04346840679942756
+N_delta_r_positive,6.0
+sign_p_delta_r,0.75390625
+median_delta_r_pix,0.734750994273323
+mean_delta_r_pix,-24.818984006362204
+wilcoxon_p_delta_r,1.0
+N_delta_phi_positive,8.0
+sign_p_delta_phi,0.109375
+median_delta_phi_deg,70.95251863023415
+mean_delta_phi_deg,64.26512421137193
+wilcoxon_p_delta_phi,0.048828125

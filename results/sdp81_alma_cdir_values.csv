@@ -1,0 +1,3 @@
+target,label,freq_label,Cdir,Npix_used,file
+SDP81,SDP81_Band7_cont,Band7,0.07096,112459,data/radio_sdp81/SDP81_Band7_ReferenceImages/SDP81_band7_11exec.contR1.image.fits
+SDP81,SDP81_Band6plus7_tt0,Band6plus7,0.196354,5643,data/radio_sdp81/SDP81_Band6+7_ReferenceImages/SDP81_B67.continuum.R1uvtaper1000klambda.image.tt0.fits

@@ -1,0 +1,12 @@
+GLOBAL COSMOLOGICAL CLOSURE TEST
+================================
+
+Best Bcmb = 0.077249
+Best H0_eff = 73.0424
+Best B_bao = 0.004635
+Best B_tdl = 0.003090
+chi2_LCDM = 23.8883
+chi2_RBP = 0.9314
+Delta chi2 = 22.9569
+Delta AIC = 20.9569
+Delta BIC = 21.5706

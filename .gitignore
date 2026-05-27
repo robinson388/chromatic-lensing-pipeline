@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+cosmoenv/
+venv/
+.env/
+*.fits
+*.fits.gz
+raw/
+mastDownload/
+.DS_Store

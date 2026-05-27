@@ -1,0 +1,10 @@
+quantity,value
+mean_A_lens,14.559470294011808
+median_A_lens,9.470101540616247
+A_SN_highz,1.04
+A_SN_over_mean_A_lens,0.07143117015924293
+Spearman_Achrom_vs_C814,0.7454545454545454
+p_Achrom_vs_C814,0.013330146315440054
+Spearman_DeltaC_vs_C814,0.9878787878787878
+p_DeltaC_vs_C814,9.307459988955516e-08
+MannWhitney_lens_greater_SN_p,3.193222375218491e-05

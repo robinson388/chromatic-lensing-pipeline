@@ -1,0 +1,8 @@
+quantity,value
+N_lenses,10.0
+N_positive_DeltaC,10.0
+sign_test_p,0.0009765625
+mean_A_stable,0.6728569777139276
+median_A_stable,0.7940757074700084
+spearman_Astable_vs_Aratio,0.9999999999999999
+p_spearman_Astable_vs_Aratio,6.64689742203186e-64

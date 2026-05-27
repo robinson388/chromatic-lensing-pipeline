@@ -1,0 +1,4 @@
+probe,observable,N,sign,statistic,p_value,interpretation
+Strong lenses,C814 > C390 ordering,9,positive,9/9 systems,0.00195,systematic red-enhanced coherence ordering
+FRB,DM_residual_cosmo vs z,14,negative slope,-407.74,0.038,distance-dependent residual accumulation
+Pantheon+ high-z,residual vs c*z,960,positive slope,0.958,0.040,chromatic-redshift interaction

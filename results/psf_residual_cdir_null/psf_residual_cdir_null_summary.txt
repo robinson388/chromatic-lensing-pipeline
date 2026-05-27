@@ -1,0 +1,19 @@
+PSF residual Cdir null test
+===========================
+
+N accepted = 100000
+P(C814 > C390) = 0.852750
+
+Ratio quantiles R = C814/C390:
+0.500: 1.017763
+0.900: 1.039865
+0.950: 1.046301
+0.990: 1.058394
+0.999: 1.071818
+
+Observed ratios compared to null:
+J0252: R_obs=2.040, P_null(R>=R_obs)=0.00000000
+J0737: R_obs=6.340, P_null(R>=R_obs)=0.00000000
+J0912: R_obs=6.620, P_null(R>=R_obs)=0.00000000
+J1630: R_obs=12.350, P_null(R>=R_obs)=0.00000000
+J1627: R_obs=23.300, P_null(R>=R_obs)=0.00000000

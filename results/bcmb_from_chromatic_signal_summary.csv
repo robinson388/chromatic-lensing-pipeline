@@ -1,0 +1,17 @@
+quantity,value
+mean_DeltaC,0.24930950000000002
+median_DeltaC,0.190952
+trimmed_mean_DeltaC_10pct,0.207223625
+B_required_Planck_to_SH0ES,0.07721796276013149
+eta_used,0.267
+B_from_trimmed_mean,0.055328707875
+H0_corrected_from_B,71.34756879124211
+bootstrap_DeltaC_p16,0.130886375
+bootstrap_DeltaC_p50,0.20891525
+bootstrap_DeltaC_p84,0.3110532700000001
+bootstrap_B_p16,0.034946662125
+bootstrap_B_p50,0.05578037175
+bootstrap_B_p84,0.08305122309000004
+bootstrap_H0_p16,69.84069932177168
+bootstrap_H0_p50,71.3816976299444
+bootstrap_H0_p84,73.50465118427044
