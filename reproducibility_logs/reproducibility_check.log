@@ -1,0 +1,79 @@
+================================================================================
+TEST: Forward null v1
+STATUS: OFFICIAL PASS
+count    10000.000000
+mean         1.025280
+std          0.017108
+min          0.966875
+95%          1.053519
+99%          1.065144
+99.9%        1.077403
+max          1.081907
+Name: ratio, dtype: float64
+P(C814>C390) = 0.9321
+max ratio = 1.081906528809363
+
+RESULT: PASS
+================================================================================
+TEST: Clumpy source stress test
+STATUS: STRESS TEST
+count    10000.000000
+mean         1.128758
+std          0.864542
+min          0.062959
+95%          1.912100
+99%          3.396793
+99.9%       10.031800
+max         44.727792
+Name: ratio, dtype: float64
+P(C814>C390) = 0.5434
+max ratio = 44.72779190285479
+N valid = 10000
+
+RESULT: PASS
+================================================================================
+TEST: Non-lens control null
+STATUS: OFFICIAL PASS
+count    10000.000000
+mean         1.014279
+std          0.036888
+min          0.597502
+95%          1.066048
+99%          1.121576
+99.9%        1.248723
+max          2.613251
+Name: ratio, dtype: float64
+P(C814>C390) = 0.7355
+max ratio = 2.613250675249831
+N valid = 10000
+
+RESULT: PASS
+================================================================================
+TEST: CMB blackbody consistency
+STATUS: CONSTRAINT / REVIEW
+
+CMB BLACKBODY CONSISTENCY TEST
+======================================================================
+ lambda_min_m  lambda_max_m  B_lambda_min  B_lambda_max  deltaB_FIRAS  deltaB_over_Bcmb
+       0.0005      0.009993      0.076181        0.0767      0.000519          0.006761
+
+Interpretation:
+Potential FIRAS inconsistency: differential
+distortion remains too large.
+
+Saved:
+results/cmb_blackbody_consistency_test.csv
+
+RESULT: PASS
+================================================================================
+TEST: BAO consistency
+STATUS: CONSTRAINT / REVIEW
+
+=== BAO CONSISTENCY TEST ===
+BAO bias: 5.839223594893417e-08
+CMB bias: 0.07669999952311043
+Relative CMB-BAO shift: 0.07669994113087449
+
+Probably too large for BAO.
+
+RESULT: PASS
